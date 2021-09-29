@@ -1,0 +1,38 @@
+ .whitetxt {
+     color: white;
+ }
+ 
+ #logo {
+     text-shadow: 3px 2px black;
+     font-size: 24px;
+     font-weight: bold;
+     opacity: 0.3%;
+ }
+ 
+ .footer {
+     background-color: black;
+     padding: 8px;
+     margin-bottom: 0px;
+     bottom: 0;
+     right: 0;
+     left: 0;
+     text-align: center;
+     position: relative;
+     widows: 100%;
+     color: white;
+     font-size: 11px;
+ }
+ 
+ .footerLink {
+     text-decoration: none;
+ }
+ 
+ #time {
+     float: left;
+     font-size: 8px;
+ }
+ 
+ .carousal-inner img {
+     height: 100%;
+     width: 100%;
+ }
